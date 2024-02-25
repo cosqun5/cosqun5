@@ -1,6 +1,6 @@
 ![MasterHead](https://www.tatvasoft.com/outsourcing/wp-content/uploads/2022/08/C-vs-.NET-The-Ultimate-Difference-min.jpg)
 <h1 align="center">Hi 👋, I'm Salahov Joshgun</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan India</h3>
+<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
 - 🌱 I’m currently learning **C#**
 
@@ -21,6 +21,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cosqun5&show_icons=true&locale=en" alt="cosqun5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cosqun5&" alt="cosqun5" /></p>
+
+
 
 
 
